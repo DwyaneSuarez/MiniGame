@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1420212242 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\icon.rc
+
+1489601431 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+	<ctime>
+	"CTreasure.h"
+
+1422461346 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\commonclass.h
+	<windows.h>
+
+1489601816 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\lessonx.h
+	<Windows.h>
+	<set>
+	<vector>
+	"CTankPlayer.h"
+	"CBullet.h"
+	"CTankEnemy.h"
+	"CTanksWorld.h"
+	"CTreasure.h"
+
+1488049892 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+
+1488784342 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\ctankplayer.cpp
+	"CTankPlayer.h"
+	"LessonX.h"
+	"CTreasure.h"
+
+1488780594 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\ctankplayer.h
+	<CommonClass.h>
+	"CTanksWorld.h"
+
+1488779598 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\cbullet.cpp
+	"CBullet.h"
+	"CTankPlayer.h"
+
+1488049165 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\cbullet.h
+	<CommonClass.h>
+	"CTanksWorld.h"
+
+1488784342 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\ctankenemy.cpp
+	"CTankEnemy.h"
+	"CBullet.h"
+	"LessonX.h"
+	<cstdlib>
+	<ctime>
+
+1488784342 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\ctankenemy.h
+	<CommonClass.h>
+	"CTanksWorld.h"
+
+1488779464 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\ctanksworld.cpp
+	"CTanksWorld.h"
+	"LessonX.h"
+
+1488779464 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\ctanksworld.h
+	<CommonClass.h>
+
+1420212242 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\icon.rc
+
+1488049168 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\src\cbullet.cpp
+	"CBullet.h"
+
+1488049165 f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\header\cbullet.h
+	<CommonClass.h>
+	"CTanksWorld.h"
+
+1422461346 f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\header\commonclass.h
+	<windows.h>
+
+1488048394 f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\header\ctanksworld.h
+	<CommonClass.h>
+
+1488049892 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\src\ctankplayer.cpp
+	"CTankPlayer.h"
+	"LessonX.h"
+
+1488049892 f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\header\ctankplayer.h
+	<CommonClass.h>
+	"CTanksWorld.h"
+
+1488051378 f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\header\lessonx.h
+	<Windows.h>
+	<set>
+	<vector>
+	"CTankPlayer.h"
+	"CBullet.h"
+	"CTankEnemy.h"
+	"CTanksWorld.h"
+
+1488049892 f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\header\ctankenemy.h
+	<CommonClass.h>
+	"CTanksWorld.h"
+
+1488046936 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\src\ctanksworld.cpp
+	"CTanksWorld.h"
+	"LessonX.h"
+
+1488052019 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\src\lessonx.cpp
+	<Stdio.h>
+	"CommonClass.h"
+	"LessonX.h"
+
+1488049892 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\src\main.cpp
+	"CommonClass.h"
+	"LessonX.h"
+
+1488241446 source:f:\learning materials\softwaredevelopment\minigame\tankwarbasic\sourcecode\src\ctankenemy.cpp
+	"CTankEnemy.h"
+	"CBullet.h"
+	"LessonX.h"
+	<cstdlib>
+	<ctime>
+
+1489226856 source:f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\src\ctreasure.cpp
+	"CTreasure.h"
+	"LessonX.h"
+
+1488698931 f:\learning materials\softwaredevelopment\tankwar\tankwar\sourcecode\header\ctreasure.h
+	<CTanksWorld.h>
+
