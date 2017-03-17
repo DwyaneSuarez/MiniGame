@@ -1,2 +1,2 @@
 # MiniGame
-A Mini-Game of Software Development Class
+A Mini-Game of Software Development Course
